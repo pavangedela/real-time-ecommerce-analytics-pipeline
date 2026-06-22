@@ -70,7 +70,3 @@ data/
 | Electronics | 3150000 |
 | Accessories | 132000 |
 | Fashion | 38000 |
-
-## Resume Description
-
-Developed a Real-Time E-Commerce Analytics Pipeline using Apache Kafka, Apache Spark Structured Streaming, Spark SQL, Docker, and Python. Implemented real-time order ingestion, stream processing, revenue calculation, Parquet storage, and business analytics including top-selling products, category-wise sales, and customer spending analysis.
