@@ -7,13 +7,13 @@ A real-time data engineering project that processes e-commerce orders using Apac
 ## Architecture
 
 Producer (Python)
-        ↓
+        ->
 Apache Kafka
-        ↓
+        ->
 Spark Structured Streaming
-        ↓
+        ->
 Parquet Storage
-        ↓
+        ->
 Spark SQL Analytics
 
 ## Technologies Used
